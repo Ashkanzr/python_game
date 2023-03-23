@@ -15,12 +15,12 @@ This program requires Python 3.x to be installed on your computer. You can downl
 7) Keep guessing until you correctly guess the number.
 8) After you guess the correct number, the program will display the number of guesses it took you to find the answer.
 
-Additional Features
+### Additional Features
 
 1) You can quit the game at any time by entering "q" instead of a number.
 2) The program includes a timer to display the time taken to play the game.
 
-Explanation:
+### Explanation:
 
 - We start by importing the necessary libraries, random and time.
 - The generate_number() function uses random.randint() to generate a random number between 1 and 100.
